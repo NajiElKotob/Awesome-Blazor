@@ -4,6 +4,7 @@
 * [ASP.NET Core Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/)
 
 ## YouTube 📺
+* [Blazor for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUJCA3DCzKT79Oe3kdKEceX) - dotNET
 * [.NET MAUI + Blazor Hybrid Tutorial for Beginners - Build mobile, desktop, & web apps with C#](https://www.youtube.com/watch?v=lqLfY9zNKNY) - James Montemagno
 
 ## Learning
