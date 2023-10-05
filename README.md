@@ -13,4 +13,4 @@
 * [Blazor Tutorial - Build your first Blazor app](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro)
 * [Blazor app building workshop (Blazing Pizza)](aka.ms/blazorworkshop)
 
-### HTML and CSS
+### Razor
