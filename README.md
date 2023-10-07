@@ -13,6 +13,9 @@
 * [Blazor Tutorial - Build your first Blazor app](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro)
 * [Blazor app building workshop (Blazing Pizza)](aka.ms/blazorworkshop)
 
+## Blogs
+* [Blazor (Pragimtech)](https://www.pragimtech.com/blog/blazor/) - pragimtech.com
+
 ### Razor 🪒
 * [Razor syntax reference for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-3.0) - Microsoft Docs
 * [Introduction to ASP.NET Web Programming Using the Razor Syntax (C#)](https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c)
