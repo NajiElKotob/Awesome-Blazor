@@ -1,4 +1,8 @@
 # Awesome Blazor
+"Blazor" is a combination of "Browser" and "Razor" 
+* Browser: Since it allows you to run C# code in the browser using WebAssembly.
+* Razor: It utilizes Razor templates (a markup syntax for embedding C# code into HTML).
+
 
 ## Docs
 * [ASP.NET Core Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/)
