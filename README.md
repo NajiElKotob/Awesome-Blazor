@@ -17,6 +17,9 @@
 * [Blazor Tutorial - Build your first Blazor app](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro)
 * [Blazor app building workshop (Blazing Pizza)](aka.ms/blazorworkshop)
 
+## Blazor Component Library 
+* [MudBlazor](https://mudblazor.com/) - mudblazor.com
+
 ## Blogs
 * [Blazor (Pragimtech)](https://www.pragimtech.com/blog/blazor/) - pragimtech.com
 
