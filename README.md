@@ -19,6 +19,7 @@
 
 ## Blazor Component Library 
 * [MudBlazor](https://mudblazor.com/) - mudblazor.com
+* [Radzen](https://blazor.radzen.com/) - radzen.com
 
 ## Blogs
 * [Blazor (Pragimtech)](https://www.pragimtech.com/blog/blazor/) - pragimtech.com
