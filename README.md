@@ -24,6 +24,11 @@
 ## Blogs
 * [Blazor (Pragimtech)](https://www.pragimtech.com/blog/blazor/) - pragimtech.com
 
+## Articles
+* [Service Lifetimes in Blazor](https://chrissainty.com/service-lifetimes-in-blazor/) - chrissainty.com
+
+-----
+
 ### Razor 🪒
 * [Razor syntax reference for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-3.0) - Microsoft Docs
 * [Introduction to ASP.NET Web Programming Using the Razor Syntax (C#)](https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c)
