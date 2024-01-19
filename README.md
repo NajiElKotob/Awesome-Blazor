@@ -25,6 +25,7 @@
 * [Blazor (Pragimtech)](https://www.pragimtech.com/blog/blazor/) - pragimtech.com
 
 ## Articles
+* [ASP.NET Core Blazor project structure](https://learn.microsoft.com/en-us/aspnet/core/blazor/project-structure?view=aspnetcore-8.0) - 
 * [Working with Query Strings in Blazor](https://chrissainty.com/working-with-query-strings-in-blazor/) - chrissainty.com
 * [Service Lifetimes in Blazor](https://chrissainty.com/service-lifetimes-in-blazor/) - chrissainty.com
 
