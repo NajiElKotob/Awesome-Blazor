@@ -25,6 +25,7 @@
 * [Blazor (Pragimtech)](https://www.pragimtech.com/blog/blazor/) - pragimtech.com
 
 ## Articles
+* [Working with Query Strings in Blazor](https://chrissainty.com/working-with-query-strings-in-blazor/) - chrissainty.com
 * [Service Lifetimes in Blazor](https://chrissainty.com/service-lifetimes-in-blazor/) - chrissainty.com
 
 -----
