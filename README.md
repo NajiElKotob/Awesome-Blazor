@@ -1,4 +1,6 @@
 # Awesome Blazor
+{Awesome Works in Progress}
+
 "Blazor" is a combination of "Browser" and "Razor" 
 * Browser: Since it allows you to run C# code in the browser using WebAssembly.
 * Razor: It utilizes Razor templates (a markup syntax for embedding C# code into HTML).
