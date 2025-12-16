@@ -20,7 +20,7 @@
 * [Blazor Tutorial - Build your first Blazor app](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro) ⭐
 * [Build web applications with Blazor (Learning Path)](https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/?WT.mc_id=dotnet-35129-website)
 * [Blazor app building workshop (Blazing Pizza)](aka.ms/blazorworkshop)
-* [Build a Blazor movie database app](https://learn.microsoft.com/en-us/aspnet/core/blazor/tutorials/movie-database-app/?view=aspnetcore-9.0)
+* [Build a Blazor movie database app](https://learn.microsoft.com/en-us/aspnet/core/blazor/tutorials/movie-database-app/)
 
 ## Blazor Component Library 
 * [MudBlazor](https://mudblazor.com/) - mudblazor.com
