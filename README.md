@@ -12,9 +12,10 @@
 ## YouTube 📺
 * [.NET Conf 2025](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXtIlvq1tuORUtZqVG-HdCt)
 * [Blazor for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUJCA3DCzKT79Oe3kdKEceX) - dotNET
-* [.NET MAUI + Blazor Hybrid Tutorial for Beginners - Build mobile, desktop, & web apps with C#](https://www.youtube.com/watch?v=lqLfY9zNKNY) - James Montemagno
-* [Learning Blazor Live](https://www.youtube.com/playlist?list=PLwOF5UVsZWUj3rc2ACx3pTN1MgXTSGlVu) - James Montemagno
 * [Clean Architecture with ASP.NET Core 10](https://www.youtube.com/watch?v=rjefnUC9Z90) - dotNET
+* James Montemagno
+  - [Learning Blazor Live](https://www.youtube.com/playlist?list=PLwOF5UVsZWUj3rc2ACx3pTN1MgXTSGlVu)
+  - [.NET MAUI + Blazor Hybrid Tutorial for Beginners - Build mobile, desktop, & web apps with C#](https://www.youtube.com/watch?v=lqLfY9zNKNY)
 * Frank Liu
   - [Learn Blazor Through Project In 2 Hours (.NET 10) | Identity | EF Core | Clean Architecture](https://www.youtube.com/watch?v=yc6obH1DPus) ⭐
 ## Learning
