@@ -24,6 +24,8 @@
 * [Build web applications with Blazor (Learning Path)](https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/?WT.mc_id=dotnet-35129-website)
 * [Blazor app building workshop (Blazing Pizza)](aka.ms/blazorworkshop)
 * [Build a Blazor movie database app](https://learn.microsoft.com/en-us/aspnet/core/blazor/tutorials/movie-database-app/)
+* Tailwind
+  - [Building beautiful Blazor apps with Tailwind CSS 📺](https://www.youtube.com/watch?v=QIdedo8iI4Y) - .NET Conf 2023
 
 ## Blazor Component Library 
 * [MudBlazor](https://mudblazor.com/) - mudblazor.com
