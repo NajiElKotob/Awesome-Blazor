@@ -35,7 +35,7 @@
 * [Blazor (Pragimtech)](https://www.pragimtech.com/blog/blazor/) - pragimtech.com
 
 ## Articles
-* [ASP.NET Core Blazor project structure](https://learn.microsoft.com/en-us/aspnet/core/blazor/project-structure) - 
+* [ASP.NET Core Blazor project structure](https://learn.microsoft.com/en-us/aspnet/core/blazor/project-structure) - This article describes the files and folders that make up a Blazor app generated from a Blazor project template.
 * [Working with Query Strings in Blazor](https://chrissainty.com/working-with-query-strings-in-blazor/) - chrissainty.com
 * [Service Lifetimes in Blazor](https://chrissainty.com/service-lifetimes-in-blazor/) - chrissainty.com
 
